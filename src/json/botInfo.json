@@ -41,12 +41,12 @@
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
   },
-    "session":{
-        "clientID": "+lqFXsltfyC4FQkG0K9z4w==",
-        "serverToken": "1@5KuxO4qP5Y80R0yhoeM5ciqUHFc3tI3Gk506NFOLg00ID2x5aQ6EpE37TTw3uNqBGGh+rMiuFioNXg==",
-        "clientToken": "fMTchUfUP0bzWQzMXT1Y7/ntUyMIoCLtTSBbWUMwKZs=",
-        "encKey": "5f2iuDuG+4BaARMk5oFf6egxgvQvHE3rEs7r3E6i7zs=",
-        "macKey": "yakabN3AVzvrBx9xJA6UAuLO4y5KnhEA2DtXBMG+lnM="
-         }
-
+    "session":.
+{
+	"clientID": "tzMBOvMNQmQOCm+T6dH2Cg==",
+	"serverToken": "1@diIGH1+JclysD7SIE5k8bhgeoywH/tvn5CCk0AbgkHmXr55T+hamKmY34bq8goR41QRugXHSslZTVw==",
+	"clientToken": "mUR+fU2nXOEDMKf/oy9sSUw6sajSQNi4qekrxaets3M=",
+	"encKey": "o9tVrlgg8wcZZSmJokjenZvNOi3XRMEonQrwo584CDw=",
+	"macKey": "gOHEbwM8Lhowqv+3ZxE3XJz2bAz3alZL8egkleuyOkU="
+}
 }
